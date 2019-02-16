@@ -1,0 +1,22 @@
+{
+  "name": "lit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/babel-preset-css-prop": "^10.0.7",
+    "emotion": "^10.0.7",
+    "lit-element": "^2.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.3",
+    "babel-loader": "^8.0.5",
+    "webpack": "^4.29.4",
+    "webpack-cli": "^3.2.3"
+  }
+}
